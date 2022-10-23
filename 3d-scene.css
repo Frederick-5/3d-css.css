@@ -43,7 +43,7 @@ body{
     position: absolute;
     left: 0;
     top: 0;
-    background: url(wall.jpg);
+    background: url(https://img.freepik.com/premium-photo/white-grey-brick-wall-texture-background_33867-130.jpg?size=626&ext=jpg&uid=R79603630&ga=GA1.2.1064136829.1663646825&semt=sph);
     background-size: 500px 500px;
     filter: grayscale(100%);
     box-shadow: inset 0 0 500px rgba(0, 0, 0, 1),
@@ -56,7 +56,7 @@ body{
     height: 2000px;
     position: absolute;
     box-shadow: inset 0 0 500px rgba(0, 0, 0, 1);
-    background: url(floor.jpg);
+    background: url(https://img.freepik.com/free-photo/tiled-stones_1194-6516.jpg?size=626&ext=jpg&uid=R79603630&ga=GA1.2.1064136829.1663646825&semt=sph);
     background-size: 300px 300px;
     transform: rotateX(90deg) translate3d(0,0,400px);
 }
